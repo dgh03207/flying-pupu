@@ -208,4 +208,4 @@ async def 명령어(ctx):
     await ctx.send(embed=embed)
 
 
-client.run('ODAyOTMzMzgxODM4Mjc0NTcx.YA2b_A.J1i9lX-mVBPbeATY6nEk_3rheUA')
+client.run(본인의 토큰 주소 입력)
